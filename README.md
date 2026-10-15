@@ -28,13 +28,17 @@ shapes ternary arithmetic lives in. First instrumented, then exploited.
 **4. Pobozhii's Law (D* Theorem).** The optimal speculative depth
 D* = floor(ln(e_step * gamma / C_r) / ln a). At acceptance 0.531 and a step priced at
 5 percent of a round, D* = 4, the observed optimum. Derived in Volume I, vector 4.
+Universality, boundary conditions and the diminishing-returns link are in `ADDENDUM-POBOZHII-LAW.md`.
 
 ## Layout
 
 - `PEHT-Architecture-Whitepaper.md` the full document, Volume I and II
 - `ENGINEERING-FIRSTS.md` engineering firsts, release 1
+- `ADDENDUM-POBOZHII-LAW.md` addendum to Pobozhii's Law, universality and boundary conditions
 - `whitepaper.sha256` the digest of the released revision
-- `whitepaper.ots` OpenTimestamps proof, anchored in Bitcoin
+- `PEHT-Architecture-Whitepaper.md.ots` OpenTimestamps proof, anchored in Bitcoin
+- `ADDENDUM-POBOZHII-LAW.sha256` the digest of the addendum
+- `ADDENDUM-POBOZHII-LAW.md.ots` OpenTimestamps proof of the addendum, anchored in Bitcoin
 - `CITATION.cff` machine-readable citation
 
 ## Prior art notice

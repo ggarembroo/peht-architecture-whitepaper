@@ -5,7 +5,7 @@ abstract: "Logits unload with consensus decoding, time-quantized speculation wit
 authors:
   - family-names: "Pobozhii"
     given-names: "Egor"
-version: "1.0.0"
+version: "1.1.0"
 doi: "10.5281/zenodo.23387609"
 date-released: "2026-10-15"
 license: "CC-BY-4.0"
