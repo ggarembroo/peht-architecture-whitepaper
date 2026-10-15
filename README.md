@@ -2,6 +2,8 @@
 
 Defensive publication. 2026-10-15. Egor Pobozhii.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23387609.svg)](https://doi.org/10.5281/zenodo.23387609)
+
 Three techniques that a two-phone ternary cluster can demonstrate today, plus eleven more
 vectors for hardware-coupled inference. Published as prior art: nobody can patent these
 concepts after this date, and everybody can build on them.
