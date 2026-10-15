@@ -32,6 +32,7 @@ D* = floor(ln(e_step * gamma / C_r) / ln a). At acceptance 0.531 and a step pric
 ## Layout
 
 - `PEHT-Architecture-Whitepaper.md` the full document, Volume I and II
+- `ENGINEERING-FIRSTS.md` engineering firsts, release 1
 - `whitepaper.sha256` the digest of the released revision
 - `whitepaper.ots` OpenTimestamps proof, anchored in Bitcoin
 - `CITATION.cff` machine-readable citation
